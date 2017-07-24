@@ -6,8 +6,9 @@ Most of the analysis is done using the 'pandas' library in python and supporting
 The analysis and results indicate that the Passenger Class and the Gender of the passenger affected the survival of the passenger. Age had very little effect on the survival of a passenger. Passengers who were in first class had a better chance of survival than the passengers of lower classes and also the female passengers had better chance of survival than the male passengers. The age of the passengers did not have a considerable effect on the survival apart from the fact that children under the age 10 had a better chance of survival.
 
 ## Running the project
-The project is built in an iPython notebook and a notebook application such as 'iPython' or 'Jupyter Notebook' is required for running the project. 
+The project is built in an iPython notebook and a notebook application such as 'iPython' or 'Jupyter Notebook' is required for running the project. To run the project, open the '.ipynb' file with a notebook application and run all the cells. The analysis of the dataset can also be seen in the '.html' file without actually running the project.
 
 ## References
 https://pandas.pydata.org/pandas-docs/stable/api.html
+
 http://matplotlib.org/1.2.1/api/pyplot_api.html
